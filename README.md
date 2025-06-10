@@ -1,16 +1,10 @@
 # 🍕 **Pizzero Loco** - ¡Hornea pizzas como un chef frenético!
 
 <div align="center">
-  <img src="![menu](https://github.com/user-attachments/assets/a938e88c-2942-418b-ac3b-dfb1180fe897)
- alt="menu" width="300">
-  <img src="![dash](https://github.com/user-attachments/assets/a18c5e7d-2470-455c-9fdf-01b5bdb8dc43)
-" alt="dashboard" width="300">
-    <img src="![espera](https://github.com/user-attachments/assets/4cdb6e4c-dbbd-4bad-96b8-c4e26d38d613)
-" alt="dashboard" width="300">
-  " alt="shop" wi![sh](https://github.com/user-attachments/assets/6b21d073-760e-454b-a964-e7cea787cc36)
-dth="300">
-    <img src="
-" alt="dashboard" width="300">
+  <img src="menu.png" alt="Menú Principal" width="200">
+  <img src="dash.png" alt="Selección de Ingredientes" width="200">
+  <img src="espera.png" alt="Pantalla de Espera" width="200">
+  <img src="shop.png" alt="Tienda de Mejoras" width="200">
 </div>
 
 ---
