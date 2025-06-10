@@ -1,8 +1,8 @@
 # 🍕 **Pizzero Loco** - ¡Hornea pizzas como un chef frenético!
 
 <div align="center">
-  <img src="![menu](https://github.com/user-attachments/assets/dcbbe865-8a9c-4439-ac12-70289c48f591)
-" alt="menu" width="300">
+  <img src="![menu](https://github.com/user-attachments/assets/a938e88c-2942-418b-ac3b-dfb1180fe897)
+ alt="menu" width="300">
   <img src="![dash](https://github.com/user-attachments/assets/a18c5e7d-2470-455c-9fdf-01b5bdb8dc43)
 " alt="dashboard" width="300">
     <img src="![espera](https://github.com/user-attachments/assets/4cdb6e4c-dbbd-4bad-96b8-c4e26d38d613)
